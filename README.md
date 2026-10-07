@@ -30,7 +30,7 @@ The calculations are broken down into three simple steps:
 
 ---
 
-## 🚀 How to Run the Program
+##  How to Run the Program
 
 1. Ensure you have **Python** installed on your system.
 2. Clone this repository or download the source code:
